@@ -1,5 +1,5 @@
 [project]
-name = "xLH-firmware"
+name = "xLH-projects"
 version = "0.1.0"
 description = ""
 authors = [
@@ -19,7 +19,7 @@ dependencies = [
     "fastapi>=0.122.0",
     "python-multipart>=0.0.20",
     "uvicorn>=0.38.0",
-    "rpi-ws281x>=5.0.0",
+    "rpi-ws281x>=5.0.0 ; sys_platform == 'linux'",
     "jupyter>=1.1.1",
     "pydantic-ai>=1.25.1",
     "xlwings>=0.33.16",
