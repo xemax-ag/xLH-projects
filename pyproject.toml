@@ -6,7 +6,7 @@ authors = [
     { name = "Pascal Helfenstein", email = "pascal.helfenstein@xemax.ch" },
     { name = "Thomas Ruoss", email = "thomas.ruoss@xemax.ch" },
 ]
-requires-python = ">=3.13"
+requires-python = ">=3.12"
 readme = "README.md"
 dependencies = [
     "python-dotenv>=1.1.1",
@@ -30,6 +30,7 @@ dependencies = [
     "streamlit>=1.51.0",
     "opencv-python>=4.12.0.88",
     "imutils>=0.5.4",
+    "ultralytics>=8.3.235",
 ]
 
 [tool.pytest.ini_options]

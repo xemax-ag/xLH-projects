@@ -1,0 +1,22 @@
+MediaMTX
+https://james-batchelor.com/index.php/2023/11/10/install-mediamtx-on-raspbian-bookworm/
+wget https://github.com/bluenviron/mediamtx/releases/download/v1.5.1/mediamtx_v1.5.1_linux_arm64v8.tar.gz
+wget https://github.com/bluenviron/mediamtx/releases/download/v1.5.1/mediamtx_v1.5.1_linux_armv7.tar.gz
+
+nano mediamtx.yml
+
+paths:
+  cam:
+    source: rpiCamera
+    rpiCameraWidth: 1280
+    rpiCameraHeight: 720
+    rpiCameraFPS: 60
+    rpiCameraVFlip: false
+    rpiCameraHFlip: false
+    rpiCameraBitrate: 10000000
+
+
+./mediamtx
+
+rtsp://192.168.1.151:8554/cam
+
