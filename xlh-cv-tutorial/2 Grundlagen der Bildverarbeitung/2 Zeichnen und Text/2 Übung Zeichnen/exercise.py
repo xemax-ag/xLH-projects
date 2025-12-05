@@ -1,0 +1,1 @@
+print('Ihre Lösung kann hier programmiert werden!')
