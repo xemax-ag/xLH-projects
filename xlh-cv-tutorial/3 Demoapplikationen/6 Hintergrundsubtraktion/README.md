@@ -14,7 +14,7 @@ Der Massepunkt soll mit einem roten Punkt in das Video eingeblendet werden.
 
 [Videodemo Hintergrundsubtraktion](https://web.microsoftstream.com/video/bdf79625-7f8b-4b3c-a388-44cfa6d6abd1)
 
-<img src="/img/background_subtraction.png" width="100%">
+<img src="img/background_subtraction.png" width="100%">
 
 ## Weiterführende Links
 * https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_video/py_bg_subtraction/py_bg_subtraction.html

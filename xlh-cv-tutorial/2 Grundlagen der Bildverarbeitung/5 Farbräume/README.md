@@ -5,8 +5,8 @@ Beschreibung der Farbe zu definieren.
 # RGB Farbraum
 Im Bereiche der Computertechnik wird oft der RGB Farbraum verwendet.
 Die einzelnen Farbanteile Rot, Blau und Grün bewegen sich in einem Bereich zwischen 0-255.
-Durch additive Farbmischung sind bis zu 256 x 256 x 256 = 16'777'216 Farben unterscheidbar.
-<img src="/img/rgb_cube.jpg" width="50%">
+Durch additive Farbmischung sind bis zu 256 x 256 x 256 = 16'777'216 Farben unterscheidbar.  
+<img src="img/rgb_cube.jpg" width="50%">
 
 # HSV Farbraum
 Der HSV Farbraum transformiert den RGB Farbraum in einen Zylinder.  
@@ -24,7 +24,7 @@ Die einzelnen Komponenten sind:
 Der Lab Farbraum beschreibt alle wahrnembaren Farben.
 Er nutzt einen dreidimensionalen Farbenraum, bei dem der Helligkeitswert L* senkrecht auf der Farbebene (a*,b*) steht.
 
-<img src="/img/lab_color_space.jpg" width="50%">
+<img src="img/lab_color_space.jpg" width="50%">
 
 
 ## Weitere Information

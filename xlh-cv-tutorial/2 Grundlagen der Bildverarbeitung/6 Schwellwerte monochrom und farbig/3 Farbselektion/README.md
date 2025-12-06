@@ -33,4 +33,4 @@ print(bgr, hsv)
 ## ColorPix.exe
 Hilfsmittel zur Bestimmung der Farbwerte eines Pixels.  
 Das Programm ist hinterlegt im Ordner: `..\Videos\Videos\video\ColorPix\ColorPix.exe`
-<img src="/img/color_pix.png">
+<img src="img/color_pix.png">

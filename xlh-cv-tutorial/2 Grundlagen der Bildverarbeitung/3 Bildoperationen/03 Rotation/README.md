@@ -4,7 +4,7 @@ Die Rotation ist die Funktion der Drehung um einen Punkt P mit einem Winkel phi.
 ## Rotation im Bildzentrum
 Falls der Drehpunkt im Zentrum des Bildes verankert ist, sieht die Rotationsmatrix 
 folgendermassen aus:
-<img src="/img/matrix_rotation_1.gif">
+<img src="img/matrix_rotation_1.gif">
 
 ```python
 # rotate_1.py

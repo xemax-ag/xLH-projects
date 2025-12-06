@@ -3,7 +3,7 @@
 # Aufgabe
 Im Bild `/img/domino_1.jpg` sind die Anzahl Punkte des Dominosteines auf der linken und rechten Seite mittels 
 bildverarbeitenden Algorithmen zu bestimmen.
-<img src="/img/domino_1.jpg" width="30%">
+<img src="img/domino_1.jpg" width="30%">
 
 ## Lösungsvorgehen
 Ein mögliches Lösungsvorgehen kann sein:
